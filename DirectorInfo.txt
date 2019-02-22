@@ -1,0 +1,7 @@
+===== Directory Infomation ====
+00GLP_MONO : GP-S044, GP-S057, LP-S070
+01GLP_S070 : GP-S070, LP-S070
+02S070-KeySW : S070 외부키 타입 프로젝트 
+03Lp-PlcOnly : S070소스에서 PLC부분만 추출한 소스
+04S044-Color : GP-S044, GP-S057, LP-S057 컬러
+05usr : GP2480
